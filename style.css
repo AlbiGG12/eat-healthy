@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.big{
+    font-size: xx-large;
+    font-weight: 900;
+}
+.flex{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+}
+.small{
+    width: 100%;
+}
+.big{
+    margin-top: 100px;
+}
+.margin{
+    margin-top: 30px;
+}
+.healthy{
+    background-image: linear-gradient(lightgreen, green);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+#left{
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.margin{
+    margin-bottom: 100px;
+}
+.button{
+    background-image: linear-gradient(skyblue, navy);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 20px;
+    text-align: center;
+}
+#bgimg{
+    background-image: url(Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.big{
+    margin-bottom: 100px;
+}
+.align{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#choto{
+    padding: 30px;
+    width: 90%;
+}
+#five{
+    margin: 5%;
+    box-shadow: 20px 20px 20px grey;
+    border-radius: 30px;
+}
+#pach{
+    margin: 5%;
+    box-shadow: 20px 20px 20px grey;
+    border-radius: 30px;
+   
+}
+#choto1{
+    padding: 30px;
+    width: 90%;
+}
+.padding{
+    padding: 50px 150px;
+}
+#shadow11{
+    box-shadow: 20px 20px 20px gray;
+    border-radius: 20px;
+}
+footer h1{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    
+}
+footer{
+    background-color: aqua;
+}
